@@ -1,0 +1,53 @@
+{
+    "version": 1,
+    "nodes": [
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/bett.png",
+            "x": 750,
+            "y": 468
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/cancel.png",
+            "x": 750,
+            "y": 20
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/eisenpickaxe.jpg",
+            "x": 750,
+            "y": 254
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/oaksetzling.jpg",
+            "x": 140,
+            "y": 130
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/ok.png",
+            "x": 446,
+            "y": 130
+        }
+    ],
+    "connections": [
+        {
+            "from": 3,
+            "to": 4
+        },
+        {
+            "from": 4,
+            "to": 1
+        },
+        {
+            "from": 4,
+            "to": 2
+        },
+        {
+            "from": {
+                "virtual": [
+                    378,
+                    211
+                ]
+            },
+            "to": 0
+        }
+    ]
+}

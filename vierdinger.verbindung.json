@@ -1,0 +1,38 @@
+{
+    "nodes": [
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/ok.png",
+            "x": 566,
+            "y": 38
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/cancel.png",
+            "x": 268,
+            "y": 124
+        },
+        {
+            "image_path": "/Users/jodok/Achievement DTList/AchievementTracker/icons/garten.png",
+            "x": 479,
+            "y": 336
+        },
+        {
+            "image_path": "/Users/jodok/Achievement DTList/AchievementTracker/icons/Bild 2.jpg",
+            "x": 30,
+            "y": 366
+        }
+    ],
+    "connections": [
+        {
+            "from": 1,
+            "to": 0
+        },
+        {
+            "from": 1,
+            "to": 2
+        },
+        {
+            "from": 3,
+            "to": 1
+        }
+    ]
+}

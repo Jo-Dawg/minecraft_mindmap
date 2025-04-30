@@ -1,0 +1,20 @@
+{
+    "nodes": [
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/ok.png",
+            "x": 456,
+            "y": 217
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/cancel.png",
+            "x": 180,
+            "y": 215
+        },
+        {
+            "image_path": "/Users/jodok/Achievement DTList/AchievementTracker/icons/biomechanik.png",
+            "x": 311,
+            "y": 406
+        }
+    ],
+    "connections": []
+}

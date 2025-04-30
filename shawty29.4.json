@@ -1,0 +1,38 @@
+{
+    "nodes": [
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/eisenpickaxe.jpg",
+            "x": 513,
+            "y": 304
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/bett.png",
+            "x": 514,
+            "y": 13
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/ok.png",
+            "x": 15,
+            "y": 135
+        },
+        {
+            "image_path": "/Users/jodok/minecraft_mindmap/pics/oaksetzling.jpg",
+            "x": 278,
+            "y": 135
+        }
+    ],
+    "connections": [
+        {
+            "from": 2,
+            "to": 3
+        },
+        {
+            "from": 3,
+            "to": 1
+        },
+        {
+            "from": 3,
+            "to": 0
+        }
+    ]
+}
